@@ -1,7 +1,7 @@
 class Toolbox < Formula
   desc "The multi-purpose utility command-line tool for web services including Dropbox, Dropbox Business, Google, GitHub, etc."
   homepage "https://github.com/watermint/toolbox"
-  version "107.0.0-dev+20220811T062905Z"
+  version "107.0.0-dev+20220814T232038Z"
   license "MIT"
 
   on_linux do
@@ -11,7 +11,7 @@ class Toolbox < Formula
     end
     on_intel do
       url    "https://raw.githubusercontent.com/watermint/toolbox/master/README.md"
-      sha256 "88312dae45c381efa86c1a1e6d97961e27e570827a7a10aafa2358a751b499f4"
+      sha256 "e34c9c007d2779c1bdc5cc213ebf07ffba6f4df0582d990f2a2c2faf637a9a3f"
     end
   end
 
