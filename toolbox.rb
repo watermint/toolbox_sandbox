@@ -1,7 +1,7 @@
 class Toolbox < Formula
   desc "The multi-purpose utility command-line tool for web services including Dropbox, Dropbox Business, Google, GitHub, etc."
   homepage "https://github.com/watermint/toolbox"
-  version "110.0.0-dev+20220829T114751Z"
+  version "110.0.0-dev+20220829T115058Z"
   license "MIT"
 
   on_linux do
